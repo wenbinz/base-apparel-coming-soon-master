@@ -84,10 +84,6 @@ input:focus {
   outline: none;
 }
 
-input:focus p {
-  background-color: blue;
-}
-
 #error {
   position: absolute;
   left: -50%;
